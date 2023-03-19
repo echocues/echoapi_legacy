@@ -1,0 +1,34 @@
+{
+  "project_id": "xsovqwlbkcqplwvp",
+  "title": "Clue",
+  "description": "AYJ Clue Play",
+  "sound_cues": [
+    {
+      "identifier": "2ce672f5-ca5c-4916-a383-9552c7bf0eab",
+      "file_name": "thingy_majiger.mp3",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": true,
+        "duration": 1.0
+      },
+      "volume": 1.0
+    },
+    {
+      "identifier": "ec00dc2e-2a86-48da-891f-4a54c0f69f46",
+      "file_name": "Unset Sound File",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 1.0
+    }
+  ],
+  "scenes": []
+}
