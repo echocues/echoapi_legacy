@@ -10,4 +10,5 @@ pub struct SoundCue {
     pub ease_in: EaseSetting,
     pub ease_out: EaseSetting,
     pub volume: f32,
+    pub speed: f32,
 }

@@ -1,0 +1,22 @@
+{
+  "project_id": "aczphgdsmfdndvyn",
+  "title": "Test",
+  "description": "This is a test project for testing echo.",
+  "sound_cues": [
+    {
+      "identifier": "22a741f4-68d5-49dc-bb88-0b4d705f17f0",
+      "file_name": "Champaigne Pop.mp3",
+      "ease_in": {
+        "enabled": true,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 1.0,
+      "speed": 1.0
+    }
+  ],
+  "scenes": []
+}
