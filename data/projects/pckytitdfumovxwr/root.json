@@ -1,0 +1,190 @@
+{
+  "project_id": "pckytitdfumovxwr",
+  "title": "Clue",
+  "description": "Clue Play",
+  "sound_cues": [
+    {
+      "identifier": "4b93e682-a787-40f2-b7cc-a16cfd40c9bd",
+      "file_name": "Champaigne Pop.mp3",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 1.0,
+      "speed": 1.0
+    },
+    {
+      "identifier": "4c8cbb46-fb6a-4871-a133-e14c8ef11126",
+      "file_name": "Dog Bark.mp3",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 1.0,
+      "speed": 1.0
+    },
+    {
+      "identifier": "35d34a15-c5a4-4ef6-91b2-5c88f63e83bf",
+      "file_name": "Door Creak.mp3",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 1.0,
+      "speed": 1.0
+    },
+    {
+      "identifier": "b977458f-f5f4-4a0c-b7c1-45de4d4ab34e",
+      "file_name": "Door Slam.mp3",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 1.0,
+      "speed": 1.0
+    },
+    {
+      "identifier": "22f25e71-8d80-4466-aa7e-4dfcbd50627e",
+      "file_name": "Doorbell.wav",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 1.0,
+      "speed": 1.0
+    },
+    {
+      "identifier": "2eba494c-35dd-443c-ade9-aa2b29819770",
+      "file_name": "Gong.wav",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": true,
+        "duration": 2.0
+      },
+      "volume": 1.0,
+      "speed": 1.0
+    },
+    {
+      "identifier": "f2a2848d-0e40-45cb-a308-973ad8e62b62",
+      "file_name": "Gun.mp3",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 1.0,
+      "speed": 1.0
+    },
+    {
+      "identifier": "46e0073f-edd0-43ef-bb1d-93ea0e52eba2",
+      "file_name": "Knock.m4a",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 1.0,
+      "speed": 1.0
+    },
+    {
+      "identifier": "3c48afe4-09f1-48c1-bb11-dd2c7064531e",
+      "file_name": "Rain.wav",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": true,
+        "duration": 1.0
+      },
+      "volume": 0.1388889,
+      "speed": 1.0
+    },
+    {
+      "identifier": "20bf137b-b17b-4a13-8eac-7468244fe311",
+      "file_name": "Rewind.wav",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 1.0,
+      "speed": 1.0
+    },
+    {
+      "identifier": "945987b0-5044-493c-8bf1-efcc20f582e5",
+      "file_name": "Rock music.mp3",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 0.11805555,
+      "speed": 1.0
+    },
+    {
+      "identifier": "32d4aa01-0f44-4310-ac81-b8fdcf2b75a2",
+      "file_name": "Telephone.wav",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 1.0,
+      "speed": 1.0
+    },
+    {
+      "identifier": "c7626377-54e0-4b8f-bf41-4cbadf4b112b",
+      "file_name": "Thunder.wav",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 1.0,
+      "speed": 1.0
+    }
+  ],
+  "scenes": []
+}

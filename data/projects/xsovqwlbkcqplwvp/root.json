@@ -1,0 +1,106 @@
+{
+  "project_id": "xsovqwlbkcqplwvp",
+  "title": "Clue",
+  "description": "AYJ Clue Play",
+  "sound_cues": [
+    {
+      "identifier": "c20923aa-81f4-48c8-ab4c-05229e0d22e3",
+      "file_name": "thingy_majiger.mp3",
+      "ease_in": {
+        "enabled": true,
+        "duration": 5.0
+      },
+      "ease_out": {
+        "enabled": true,
+        "duration": 1.0
+      },
+      "volume": 1.0
+    },
+    {
+      "identifier": "7a8255ff-d191-495e-b55d-365ff1e51dae",
+      "file_name": "test.mp3",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 1.0
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Scene 1",
+      "events": [
+        {
+          "time": {
+            "hour": 0,
+            "minutes": 0,
+            "seconds": 10
+          },
+          "cues": [],
+          "notes": []
+        },
+        {
+          "time": {
+            "hour": 0,
+            "minutes": 0,
+            "seconds": 18
+          },
+          "cues": [],
+          "notes": []
+        },
+        {
+          "time": {
+            "hour": 0,
+            "minutes": 0,
+            "seconds": 15
+          },
+          "cues": [],
+          "notes": []
+        },
+        {
+          "time": {
+            "hour": 0,
+            "minutes": 0,
+            "seconds": 28
+          },
+          "cues": [
+            "7a8255ff-d191-495e-b55d-365ff1e51dae"
+          ],
+          "notes": []
+        },
+        {
+          "time": {
+            "hour": 0,
+            "minutes": 0,
+            "seconds": 0
+          },
+          "cues": [],
+          "notes": []
+        },
+        {
+          "time": {
+            "hour": 0,
+            "minutes": 0,
+            "seconds": 7
+          },
+          "cues": [
+            "7a8255ff-d191-495e-b55d-365ff1e51dae"
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "name": "Scene 2",
+      "events": []
+    },
+    {
+      "name": "Scene 3",
+      "events": []
+    }
+  ]
+}

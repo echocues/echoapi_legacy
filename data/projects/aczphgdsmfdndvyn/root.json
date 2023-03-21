@@ -15,7 +15,21 @@
         "duration": 1.0
       },
       "volume": 1.0,
-      "speed": 1.0
+      "speed": 2.0
+    },
+    {
+      "identifier": "fa08dc37-aaee-4b1d-b79e-0d7b62117fbd",
+      "file_name": "Rewind.wav",
+      "ease_in": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "ease_out": {
+        "enabled": false,
+        "duration": 1.0
+      },
+      "volume": 1.0,
+      "speed": 2.0
     }
   ],
   "scenes": []
