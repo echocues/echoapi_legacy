@@ -1,9 +1,7 @@
 use std::fmt::Display;
-
-use rocket::serde::{Serialize, Deserialize};
+use serde::{Serialize, Deserialize};
 
 #[derive(Serialize, Deserialize)]
-#[serde(crate = "rocket::serde")]
 pub struct EventTime {
     pub hours: u32,
     pub minutes: u32,
